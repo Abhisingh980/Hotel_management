@@ -4,8 +4,10 @@ df = pd.read_csv("hotels.csv")
 
 
 class Hotel:
-    pass
+    def book(self):
+        pass
 
 
 class ReservationTicket:
-    pass
+    def generate(self):
+        pass
