@@ -1,9 +1,11 @@
 import pandas as pd
 
+df = pd.read_csv("hotels.csv")
+
 
 class Hotel:
     pass
 
 
-class RegevationTicket:
+class ReservationTicket:
     pass
